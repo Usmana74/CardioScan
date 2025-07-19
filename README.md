@@ -4,7 +4,7 @@ CardioScan is a real-time heart rate classification system that uses your webcam
 
 ## 📸 Demo
 
-> Real-time contactless heart rate monitoring using only a webcam. *(Add demo screenshot or video here)*
+> Real-time contactless heart rate monitoring using only a webcam. 
 
 ## 🚀 Features
 
